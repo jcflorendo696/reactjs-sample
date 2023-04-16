@@ -6,8 +6,11 @@ nav{
     justify-content: space-around;
     align-items: center;
     h5{
-        color: white;
+        color: #fff;
         margin-bottom: 0;
+        a:hover{
+            text-decoration: none;
+        }
     }
     ul{
         margin-top: 0;
@@ -24,6 +27,7 @@ nav{
     }
     a:link{
         text-decoration: none;
+        color: #fff;
     }
     a:hover{
         text-decoration: underline;

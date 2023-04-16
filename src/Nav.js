@@ -4,7 +4,7 @@ const Nav = () => {
     return (
         <header>
             <nav>
-                <h5>Sample Recipe App</h5>
+                <h5><a href="/">Sample ReactJS App</a></h5>
                 <ul>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/blogs">Blogs</Link></li>
