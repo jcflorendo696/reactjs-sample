@@ -19,7 +19,7 @@ const Blogs = () => {
             <h1 className="mt-3">Blogpost Page</h1>
             <ul>
                 <li>This is a sample blogpost page for this React website.</li>
-                <li>The posts are being pulled from a dummy api and assembled the content insied the components.</li>
+                <li>The posts are being pulled from a dummy api and assembled the content inside the components.</li>
             </ul>
             <p>This is for example purposes only.</p><br/>
             <Blogposts posts={blogposts}/>
