@@ -1,5 +1,5 @@
 {
-  "homepage":"http://jcflorendo696.github.io/reactjs-sample",
+  "homepage": "http://jcflorendo696.github.io/reactjs-sample",
   "name": "react_task2",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "react-router-dom": "^6.8.1"
   }
 }
